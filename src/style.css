@@ -1,0 +1,69 @@
+body {
+    background-color:#27262b ;
+    color: #e6e1e8;
+    font-family: 'Karla', sans-serif;
+}
+
+.title {
+    font-size: 3vw;
+}
+
+.labs {
+    margin-left: 3vw;
+    margin-bottom: 4vw;
+}
+
+.labtitle {
+    font-size: 2.5vw;
+    margin-bottom: 1vw;
+}
+
+.lablinks {
+    margin-left: 3vw;
+    font-size: 2vw;
+}
+
+a:link {
+    color: #FAB3AD;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: #FAB3AD;
+}
+  
+a:hover {
+    color: #0d98ba;
+}
+
+.labcontents {
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+h1 {
+    font-size: 3vw;
+}
+
+p {
+    font-size: 1.5vw;
+    margin-left: 2vw;
+}
+
+h2 {
+    font-size: 2vw;
+    margin-left: 1vw;;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.thin {
+    display: inline-block;
+    width: 12%;
+    
+}
